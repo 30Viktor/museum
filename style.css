@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(255, 194, 120);
+}
+header{
+    justify-content: right;
+    display: flex;
+    background-color: rgb(240, 147, 26);
+    height: 150px;
+ 
+}
+.botton{margin-right: 60px;
+    margin-top: 45px;
+    color: rgb(65, 34, 0);
+    text-decoration: none;
+    font-size: 30px;
+}
+.botton:hover{
+    height: 35px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 10px rgb(179, 117, 3);
+    color: rgb(102, 3, 0);
+}
+h1{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-right: 500px;
+}
+main{
+    display: flex;
+   
+}
+#left{
+    margin-left: 200px;
+    margin-top: 60px;
+    background-color: rgb(240, 147, 26) ;
+    height: 700px;
+    width: 700px;
+    overflow-y: scroll;
+    box-shadow: 5px 5px 5px 5px  rgb(110, 94, 65);
+}
+#top{height: 320px;
+    display: flex;
+    width: 700px;
+    background-color: rgb(240, 147, 26);
+    box-shadow: 5px 5px 5px 5px  rgb(110, 94, 65); 
+}
+#down{
+    box-shadow: 5px 5px 5px 5px  rgb(110, 94, 65);
+    margin-top: 60px;
+    height: 320px;
+    width: 700px;
+    background-color: rgb(240, 147, 26) ;  
+ 
+}
+#right{
+    margin-left: 60px;
+    margin-top:60px ;
+}
+#text{
+    font-size: 20px;
+}
+#img1{
+    padding-left: 35px;
+    padding-top: 35px;
+    height: 250px;
+}
+#muzeum{
+    
+    margin-left: 250px;
+    font-size: 25px;
+    color: rgb(65, 34, 0);
+    
+}
+#img2{
+    padding-top: 10px;
+   margin-left: 90px;
+    height: 250px ;
+    width: 500px;
+}
+footer{
+    margin-top: 60px;
+    background-color: rgb(240, 147, 26);
+    height: 110px;
+    text-align: center;
+}
+#fot{
+    padding-top: 100px;
+    color: rgb(65, 34, 0);
+    font-size: 20px;
+    font-style: italic;
+}
+#moredown{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 200px;
+    background-color: rgb(240, 147, 26);
+    width: 1460px;
+    box-shadow: 5px 5px 5px 5px  rgb(110, 94, 65);
+    height: 360px;
+}
+#img5{
+    margin-left: 70px;
+    margin-top: 40px;
+    height: 280px;
+    width: 450px;
+}
+#img6{
+    margin-top: 40px;
+    height: 280px;
+    width: 310px;
+    margin-left: 60px;
+}
+#img8{
+    margin-top: 40px;
+    height:280px;
+    margin-left: 60px;
+}
