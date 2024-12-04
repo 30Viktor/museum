@@ -81,7 +81,9 @@ footer{
     margin-top: 60px;
     background-color: rgb(240, 147, 26);
     height: 110px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #fot{
     padding-top: 100px;
